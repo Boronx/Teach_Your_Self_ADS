@@ -4,14 +4,8 @@ Hi! This is my personal page to record some learning methods and materials about
 
 **Key words:** Scenario-based testing, SOTIF, Testing acceleration
 
-## To-do list
-| Task                   | Status | Date       |
-|------------------------|--------|------------|
-| Task 1                 | - [ ]   | 2024-01-16 |
-| Task 2                 | - [ ]   | 2024-01-16 |
-| Task 3                 | - [ ]   | 2024-01-17 |
-| Task 4                 | - [ ]   | 2024-01-17 |
-
+<div style="display: flex; justify-content: space-between;">
+   
 ## Table of Contents
 1. [Learning Materials](#learning-materials)
    - [Specific Majors](#specific-majors)
@@ -24,6 +18,24 @@ Hi! This is my personal page to record some learning methods and materials about
    - [Testing](#testing)
    - [Evaluation](#evaluation)
 4. [Keywords](#keywords)
+
+## Revision history
+| Date       | Author      | Changes Made          |
+|------------|-------------|-----------------------|
+| 2024-01-16 | Wenbo       | Initial release       |
+| 2024- | Wenbo |    |
+| 2024- | Wenbo   | |
+
+</div>
+
+
+## To-do list
+| Task                   | Status | Date       |
+|------------------------|--------|------------|
+| Task 1                 | - [ ]   | 2024-01-16 |
+| Task 2                 | - [ ]   | 2024-01-16 |
+| Task 3                 | - [ ]   | 2024-01-17 |
+| Task 4                 | - [ ]   | 2024-01-17 |
 
 ## Learning Materials<a name="learning-materials"></a>
 
@@ -44,10 +56,3 @@ Hi! This is my personal page to record some learning methods and materials about
 ### Testing<a name="testing"></a>
 
 ### Evaluation<a name="evaluation"></a>
-
-## Revision history
-| Date       | Author      | Changes Made          |
-|------------|-------------|-----------------------|
-| 2024-01-16 | Wenbo       | Initial release       |
-| 2024- | Wenbo |    |
-| 2024- | Wenbo   | |
