@@ -12,6 +12,38 @@ Hi! This is my personal page to record some learning methods and materials about
 | Task 3                 | - [ ]   | 2024-01-17 |
 | Task 4                 | - [ ]   | 2024-01-17 |
 
+## Table of Contents
+1. [Learning Materials](#learning-materials)
+   - [Specific Majors](#specific-majors)
+   - [State-of-the-Art (SOTA) Papers](#sota-papers)
+2. [Research Tools Tutorials](#research-tools-tutorials)
+   - [VTD Tutorial](#vtd-tutorial)
+   - [Apollo Tutorial](#apollo-tutorial)
+3. [Focus Areas](#focus-areas)
+   - [ADS Safety](#ads-safety)
+   - [Testing](#testing)
+   - [Evaluation](#evaluation)
+4. [Keywords](#keywords)
+
+## Learning Materials<a name="learning-materials"></a>
+
+### Specific Majors<a name="specific-majors"></a>
+
+### SOTA Papers<a name="sota-papers"></a>
+
+## Research Tools Tutorials<a name="research-tools-tutorials"></a>
+
+### VTD Tutorial<a name="vtd-tutorial"></a>
+
+### Apollo Tutorial<a name="apollo-tutorial"></a>
+
+## Focus Areas<a name="focus-areas"></a>
+
+### ADS Safety<a name="ads-safety"></a>
+
+### Testing<a name="testing"></a>
+
+### Evaluation<a name="evaluation"></a>
 
 ## Revision history
 | Date       | Author      | Changes Made          |
